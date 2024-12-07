@@ -25,7 +25,7 @@ The primary goal of this analysis is to:
 ![ipl_teams](ipl_teams.jpg)
 
 Each IPL team is assigned a distinct color for visualization purposes:
-- Colors: Purple, Pink, Orange, Yellow, Red, Maroon, Light Blue, Silver, Lavender, Blue.
+- Colors: KKR: Purple,RR: Pink,SRH: Orange,CSK: Yellow,RCB: Red,KXIP: Maroon,DC: Light Blue,GT: Silver,LSG: Lavender,MI: Blue.
 
 ### 2. Team Performances
 - **Winning Percentages**:
