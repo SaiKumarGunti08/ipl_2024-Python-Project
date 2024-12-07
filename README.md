@@ -1,5 +1,7 @@
 # IPL 2024 Data Analysis Project Presentation
 
+![ipl_logo](TATA_IPL_2024_Logo.png)
+
 ## Overview
 This project analyzes the IPL 2024 season, providing insights into team and player performances, match outcomes, and other key statistics. The dataset used is `IPL2024_match.csv`, cleaned and processed for meaningful exploration.
 
