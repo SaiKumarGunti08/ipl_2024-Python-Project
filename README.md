@@ -21,6 +21,9 @@ The primary goal of this analysis is to:
 ## Insights and Analysis
 
 ### 1. Teams and Their Colors
+
+![ipl_teams]()
+
 Each IPL team is assigned a distinct color for visualization purposes:
 - Colors: Purple, Pink, Orange, Yellow, Red, Maroon, Light Blue, Silver, Lavender, Blue.
 
