@@ -1,4 +1,4 @@
-# IPL 2024 Data Analysis Project Presentation
+# IPL 2024 Data Analysis Project
 
 ![ipl_logo](TATA_IPL_2024_Logo.png)
 
@@ -22,7 +22,7 @@ The primary goal of this analysis is to:
 
 ### 1. Teams and Their Colors
 
-![ipl_teams]()
+![ipl_teams](ipl_teams.jpg)
 
 Each IPL team is assigned a distinct color for visualization purposes:
 - Colors: Purple, Pink, Orange, Yellow, Red, Maroon, Light Blue, Silver, Lavender, Blue.
